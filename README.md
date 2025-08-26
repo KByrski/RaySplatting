@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=KByrski&project=RaySplatting&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # RaySplats: Ray Tracing based Gaussian Splatting
 Krzysztof Byrski, Marcin Mazur, Jacek Tabor, Tadeusz Dziarmaga, Marcin Kądziołka, Dawid Baran, Przemysław Spurek <br>
 
